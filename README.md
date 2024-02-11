@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ I'm a tech enthusiast who loves to learn about new things.<br>📚 Fast learner and eager to explore new technologies.<br>💻 Believer in agile development, team work and Clean Code.<br>🎲 Able and willing to think outside the box.</p>
 
 ###
 
