@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <p align="left">
-✨ I’m a Master’s student in Business Analytics & AI at UT Dallas.<br>
+✨ I’m a Master’s student in Artificial Intelligence at UT Dallas.<br>
 💻 Passionate about building scalable backend systems, AI solutions, and cloud-native applications.<br>
 📚 Strong believer in continuous learning, clean code, and collaborative development.<br>
 🤝 I love contributing to open-source and tech-for-good projects.<br>
