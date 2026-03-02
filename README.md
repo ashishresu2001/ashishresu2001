@@ -75,6 +75,6 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <p align="left">
-📫 ashishresu2001@gmail.com <br>
+<br>
 🔗 <a href="https://linkedin.com/in/ashishresu2001" target="_blank">LinkedIn</a>
 </p>
